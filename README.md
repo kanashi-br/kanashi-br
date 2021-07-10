@@ -13,10 +13,11 @@
   <img title="Laravel" align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
   <img title="Java" align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img title="Ionic" align="center" alt="Ionic" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg">
-  
+  <img title="Eu" align="right" alt="Eu" height="150" style="padding-right: 30px"  src="me.png">  
 </div>
 
-## 
+ ##
+
 <div> 
 
   ![Snake animation](https://github.com/kanashi-br/kanashi-br/blob/output/github-contribution-grid-snake.svg)
